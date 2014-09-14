@@ -6,19 +6,13 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Roughly Cooking
+tagline:          Learning to cook by feel.
+description:      'Helping redefine how we learn to cook using ratios, recipes and whole ingredients.'
+url:              http://roughlycooking.com
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Roughly Chef'
+  url:            https://twitter.com/roughlycooking
 
 paginate:         5
-
-# Custom vars
-version:          2.0.0
-
-github:
-  repo:           https://github.com/poole/hyde
